@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "$(cd ~)"
+=======
+echo "$(cd)"
+>>>>>>> 7a16e54452dc0ed61e8e77f80fcff2eb759dbc9c
