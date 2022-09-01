@@ -9,4 +9,5 @@ Add execute permission to all
 Set mode
 Set mode with reference
 Exclude regular files
-Create a directory with permission 
+Create a directory with permission
+Change group owner 
