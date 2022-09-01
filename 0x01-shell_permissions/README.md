@@ -7,4 +7,5 @@ Add execute permission
 Add multiple permissions
 Add execute permission to all
 Set mode
-Set mode with reference 
+Set mode with reference
+Exclude regular files 
