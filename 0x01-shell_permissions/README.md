@@ -6,4 +6,5 @@ Create an empty file
 Add execute permission
 Add multiple permissions
 Add execute permission to all
-Set mode 
+Set mode
+Set mode with reference 
