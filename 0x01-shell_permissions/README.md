@@ -10,4 +10,5 @@ Set mode
 Set mode with reference
 Exclude regular files
 Create a directory with permission
-Change group owner 
+Change group owner
+Change owner and group owner 
