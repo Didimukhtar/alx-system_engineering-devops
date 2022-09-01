@@ -12,4 +12,5 @@ Exclude regular files
 Create a directory with permission
 Change group owner
 Change owner and group owner
-Change owner and group owner of a symbolic link 
+Change owner and group owner of a symbolic link
+Change owner with specified user 
