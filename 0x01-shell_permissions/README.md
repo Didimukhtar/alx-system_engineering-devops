@@ -3,4 +3,5 @@ Print effective username of current user
 Print all groups of current user
 Change ownership of file
 Create an empty file
-Add execute permission 
+Add execute permission
+Add multiple permissions 
