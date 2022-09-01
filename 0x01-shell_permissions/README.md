@@ -4,4 +4,5 @@ Print all groups of current user
 Change ownership of file
 Create an empty file
 Add execute permission
-Add multiple permissions 
+Add multiple permissions
+Add execute permission to all 
