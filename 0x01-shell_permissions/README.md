@@ -8,4 +8,5 @@ Add multiple permissions
 Add execute permission to all
 Set mode
 Set mode with reference
-Exclude regular files 
+Exclude regular files
+Create a directory with permission 
