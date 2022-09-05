@@ -10,4 +10,5 @@ Overwrite a file with the result of a command
 Write last line of a file into same file
 Find and delete a file
 Find and count number of directories and subdirectories
-List newest files 
+List newest files
+Sort and print only words that appear once
