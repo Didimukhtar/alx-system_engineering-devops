@@ -18,3 +18,4 @@ Display all the files that do not contain a pattern
 Display all lines of a file including capital letter
 Replace characters
 Remove certain letters from input
+Reverse input
