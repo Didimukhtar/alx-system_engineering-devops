@@ -21,3 +21,4 @@ Remove certain letters from input
 Reverse input
 Display all users and home directories, sorted by users
 Find empty file and current directories
+List all files with a .gif extension in their directories and subdirectories
