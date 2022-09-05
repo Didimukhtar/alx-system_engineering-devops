@@ -22,3 +22,5 @@ Reverse input
 Display all users and home directories, sorted by users
 Find empty file and current directories
 List all files with a .gif extension in their directories and subdirectories
+Decode acrostics with first letter of each file
+Parse web servers in TSV format as input and displays IP addresses with the most requests 
