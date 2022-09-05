@@ -20,3 +20,4 @@ Replace characters
 Remove certain letters from input
 Reverse input
 Display all users and home directories, sorted by users
+Find empty file and current directories
