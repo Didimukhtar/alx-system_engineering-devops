@@ -13,3 +13,4 @@ Find and count number of directories and subdirectories
 List newest files
 Sort and print only words that appear once
 Display lines containing a pattern
+Count and display lines containing a pattern
