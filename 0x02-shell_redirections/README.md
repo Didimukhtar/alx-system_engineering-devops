@@ -15,3 +15,4 @@ Sort and print only words that appear once
 Display lines containing a pattern
 Count and display lines containing a pattern
 Display all the files that do not contain a pattern
+Display all lines of a file including capital letter
