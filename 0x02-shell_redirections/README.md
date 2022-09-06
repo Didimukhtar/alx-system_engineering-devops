@@ -79,7 +79,7 @@
 - List all files with a .gif extension in their directories and subdirectories.
 ---
 [102-acrostic](https://github.com/Didimukhtar/alx-system_engineering-devops/blob/b543087b6c790ad67563d6b94009e833888c379c/0x02-shell_redirections/102-acrostic)
-A script that decodes acrostics with first letter of each file.
+- A script that decodes acrostics with first letter of each file.
 ---
 [103-the_biggest_fan](https://github.com/Didimukhtar/alx-system_engineering-devops/blob/b543087b6c790ad67563d6b94009e833888c379c/0x02-shell_redirections/103-the_biggest_fan)
 - A script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
