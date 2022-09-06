@@ -1,0 +1,16 @@
+total 96
+drwxr-xr-x  15 macbookair  staff  480 Sep  5 14:47 .
+drwxr-xr-x   8 macbookair  staff  256 Sep  5 12:22 ..
+-rwxr-xr-x   1 macbookair  staff   32 Sep  5 12:26 0-hello_world
+-rwxr-xr-x   1 macbookair  staff   28 Sep  5 12:43 1-confused_smiley
+-rwxr-xr-x   1 macbookair  staff   28 Sep  5 12:56 2-hellofile
+-rwxr-xr-x   1 macbookair  staff   39 Sep  5 13:06 3-twofiles
+-rwxr--r--   1 macbookair  staff   35 Sep  5 13:18 4-lastlines
+-rwxr--r--   1 macbookair  staff   35 Sep  5 13:24 5-firstlines
+-rwxr--r--   1 macbookair  staff   36 Sep  5 13:34 6-third_line
+-rwxr--r--   1 macbookair  staff   99 Sep  5 14:39 7-file
+-rwxr--r--   1 macbookair  staff   36 Sep  5 14:47 8-cwd_state
+-rw-r--r--   1 macbookair  staff  248 Sep  5 13:50 README.md
+-rw-r--r--   1 macbookair  staff   12 Sep  5 14:40 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 macbookair  staff   12 Sep  5 14:25 \*\\\"Best School\"\\\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 macbookair  staff    0 Sep  5 14:47 ls_cwd_content
