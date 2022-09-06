@@ -5,7 +5,7 @@
     - Value: __rm *__
 ---
 [1-hello_you](https://github.com/Didimukhtar/alx-system_engineering-devops/blob/fe481e8b0e7295fcdd9914b40a96b838791c6c77/0x03-shell_variables_expansions/1-hello_you)
-- A script that prints **hello user**, where user is the current Linux user.
+- A script that prints __hello user__, where user is the current Linux user.
 ---
 [2-path](https://github.com/Didimukhtar/alx-system_engineering-devops/blob/fe481e8b0e7295fcdd9914b40a96b838791c6c77/0x03-shell_variables_expansions/2-path)
 - A script that adds **/action** to the **PATH**. **/action** should be the last directory the shell looks into when looking for a program.
@@ -58,3 +58,19 @@
 - A script that prints a number with two decimal places, followed by a new line.
     - The number will be stored in the environment variable NUM.
     ---
+ [100-decimal_to_hexadecimal](https://github.com/Didimukhtar/alx-system_engineering-devops/blob/b7b3f1b5195c4ee2f99db11d4a17b99341750917/0x03-shell_variables_expansions/100-decimal_to_hexadecimal)
+- A script that converts a number from base 10 to base 16.
+    - The number in base 10 is stored in the environment variable DECIMAL
+     - The script should display the number in base 16, followed by a new line.
+    ---
+[101-rot13](https://github.com/Didimukhtar/alx-system_engineering-devops/blob/b7b3f1b5195c4ee2f99db11d4a17b99341750917/0x03-shell_variables_expansions/101-rot13)
+ - A script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+ ---
+ [102-odd](https://github.com/Didimukhtar/alx-system_engineering-devops/blob/b7b3f1b5195c4ee2f99db11d4a17b99341750917/0x03-shell_variables_expansions/102-odd)
+  - A script that prints every other line from the input, starting with the first line.
+ ---
+ [103-water_and_stir](https://github.com/Didimukhtar/alx-system_engineering-devops/blob/b7b3f1b5195c4ee2f99db11d4a17b99341750917/0x03-shell_variables_expansions/103-water_and_stir)
+ - A shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+    - __WATER__ is in base __water__
+    - __STIR__ is in base __stir__.
+    - The result should be in base __bestchol__
