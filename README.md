@@ -5,4 +5,4 @@
 
 [0x02-shell_redirections](https://github.com/didimukhtar/alx-system_engineering-devops/tree/main/0x02-shell_redirections) : Shell, I/O Redirections and filters
 
-[0x03-shell_variables_expansions](https://github.com/didimukhtar/alx-system_engineering-devops/tree/main/0x02-shell_variables_expansions) : Shell, init file, variables and expansions.
+[0x03-shell_variables_expansions](https://github.com/didimukhtar/alx-system_engineering-devops/tree/main/0x03-shell_variables_expansions) : Shell, init file, variables and expansions.
